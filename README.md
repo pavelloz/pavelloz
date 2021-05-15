@@ -7,9 +7,14 @@ I'm working hard to make the web a faster place. ;)
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to catch Front-end performance regressions?](https://pavelloz.hashnode.dev/how-to-catch-front-end-performance-regressions)
-- [platformOS Documentation Site Webpack Setup](https://pavelloz.hashnode.dev/platformos-documentation-site-webpack-setup)
-- [How to Test Slack Notifications](https://pavelloz.hashnode.dev/how-to-test-slack-notifications)
-- [Using WebP in Your Existing Webpage](https://pavelloz.hashnode.dev/using-webp-in-your-existing-webpage)
-- [Should You Always Care about Your Website Size?](https://pavelloz.hashnode.dev/should-you-always-care-about-your-website-size)
+- [How We sped Up Our Webpack (TailwindCSS) 7 times!](https://dev.to/platformos/how-we-sped-up-our-webpack-tailwindcss-7-times-1c05)
+- [How We Sped Up Our Webpack (TailwindCSS) Build By 74%](https://dev.to/platformos/how-we-sped-up-our-webpack-tailwindcss-build-by-57-1hci)
+- [How to catch Front-end performance regressions?](https://dev.to/platformos/how-to-catch-front-end-performance-regressions-4dl)
+- [How platformOS uses mixpanel while keeping users privacy?](https://dev.to/platformos/how-platformos-uses-mixpanel-and-keeping-users-privacy-118n)
+- [platformOS Documentation Site Webpack Setup](https://dev.to/platformos/platformos-documentation-site-webpack-setup-93l)
+- [How to Test Slack Notifications](https://dev.to/platformos/how-to-test-slack-notifications-2leb)
+- [Using WebP in Your Existing Webpage](https://dev.to/platformos/using-webp-in-your-existing-webpage-809)
+- [Should You Always Care about Your Website Size?](https://dev.to/platformos/should-you-always-care-about-your-website-size-2jcc)
+- [Image Maps with SVG — Back to the Future](https://dev.to/platformos/image-maps-with-svg-back-to-the-future-19j)
+- [Our documentation site is using Webpack 5 already](https://dev.to/platformos/our-documentation-site-is-using-webpack-5-already-41eh)
 <!-- BLOG-POST-LIST:END -->
