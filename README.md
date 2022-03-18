@@ -5,7 +5,7 @@ Hi there.
 
 I'm working hard to make the web a faster place. ;)
 
-# 📩 Latest Blog Posts
+# 📩 Latest Blog Posts from DEV.to
 <!-- BLOG-POST-LIST:START -->
 - [Background images in TailwindCSS - the clean and easy way](https://dev.to/platformos/background-images-in-tailwindcss-the-clean-and-easy-way-gho)
 - [We Are Switching From TestCafe to CodeceptJS – Here’s Why](https://dev.to/platformos/we-are-switching-from-testcafe-to-codeceptjs-here-s-why-39ml)
