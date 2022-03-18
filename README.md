@@ -5,7 +5,7 @@ Hi there.
 
 I'm working hard to make the web a faster place. ;)
 
-# 📩 Latest Blog Posts from DEV.to
+# 📩 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [I don&#39;t like redesigns](https://pavelloz.com/blog/I-dont-like-redesigns/)
 - [Prepare Google fonts for self-hosting](https://pavelloz.com/blog/Google-fonts-optimization/)
