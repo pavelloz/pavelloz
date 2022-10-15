@@ -1,5 +1,5 @@
 ## Paweł Kowalski
-### Senior Performance Engineer
+### Senior Frontend Developer
 
 Hi there.
 
